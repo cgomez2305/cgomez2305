@@ -18,11 +18,7 @@ I am a full stack developer with experience in software development and training
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cgomez2305&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="[https://rm.up.railway.app/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramacion&psig=AOvVaw3j8p1g3wBl5B0kJU8_pvm8&ust=1683071237451000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCfuIun1f4CFQAAAAAdAAAAABAX)" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=cgomez2305&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
